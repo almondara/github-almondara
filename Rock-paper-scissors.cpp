@@ -1,7 +1,7 @@
 // Rock-Paper-Scissors Game
 // Written by Arianna Almond
 // Purpose: For the user and computer to play a game of rock-paper-scissors then output the winner with their score
-// Presented 10/29/25 (Edited 11/16/25)
+// Presented 10/29/25 (Edited 12/16/25)
 
 
 #include <iostream>
@@ -84,4 +84,5 @@ int main() {
 		}
 	}
 	return 0;
+
 }
